@@ -13,5 +13,7 @@ It evaluates passwords on factors like length, character types, and complexity t
 
 🎓Knowledge Gained:
 ✅Python Programming: Developed proficiency in Python programming by implementing password strength assessment algorithms.
+
 ✅Regular Expressions: Learned how to use regular expressions to efficiently detect special characters in passwords.
+
 ✅Task Documentation: Created a comprehensive README.md file to document the project features, usage instructions, and contribution guidelines.
